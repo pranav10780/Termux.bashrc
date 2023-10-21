@@ -1,7 +1,7 @@
 # Termux.bashrc  
 A customised .bashrc for termux  
 
-#INSTALLATION  
+# INSTALLATION  
 
 1. Clone repository
 
