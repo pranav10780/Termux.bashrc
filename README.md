@@ -1,5 +1,7 @@
 # Termux.bashrc  
-A customised .bashrc for termux  
+A customised .bashrc for termux 
+
+![SREEN SHOT](Screenshot_2023-10-21-09-51-23-145_com.termux.jpg)
 
 # INSTALLATION  
 
